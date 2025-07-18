@@ -1,0 +1,14 @@
+com\example\config\DucklakeConnectionManager.class
+com\example\config\IcebergCatalogConnectionManager.class
+com\example\config\ConfigLoader.class
+com\example\writer\DucklakeSnapshotWriter.class
+com\example\writer\DucklakeTableWriter.class
+com\example\writer\DucklakePartitionWriter.class
+com\example\writer\DucklakeSchemaWriter.class
+com\example\reader\IcebergTableMetadataReader.class
+com\example\MigrationProject1\DuckLakeTypeMapper.class
+com\example\MigrationProject1\App.class
+com\example\writer\DucklakeViewWriter.class
+com\example\writer\DucklakeDataFileWriter.class
+com\example\writer\DucklakeTagWriter.class
+com\example\MigrationProject1\DuckLakeTypeMapper$1.class
