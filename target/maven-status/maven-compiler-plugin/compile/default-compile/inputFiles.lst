@@ -1,1 +1,13 @@
+E:\jyothi\Projects\MigrationProject1\src\main\java\com\example\config\ConfigLoader.java
+E:\jyothi\Projects\MigrationProject1\src\main\java\com\example\config\DucklakeConnectionManager.java
+E:\jyothi\Projects\MigrationProject1\src\main\java\com\example\config\IcebergCatalogConnectionManager.java
 E:\jyothi\Projects\MigrationProject1\src\main\java\com\example\MigrationProject1\App.java
+E:\jyothi\Projects\MigrationProject1\src\main\java\com\example\MigrationProject1\DuckLakeTypeMapper.java
+E:\jyothi\Projects\MigrationProject1\src\main\java\com\example\reader\IcebergTableMetadataReader.java
+E:\jyothi\Projects\MigrationProject1\src\main\java\com\example\writer\DucklakeDataFileWriter.java
+E:\jyothi\Projects\MigrationProject1\src\main\java\com\example\writer\DucklakePartitionWriter.java
+E:\jyothi\Projects\MigrationProject1\src\main\java\com\example\writer\DucklakeSchemaWriter.java
+E:\jyothi\Projects\MigrationProject1\src\main\java\com\example\writer\DucklakeSnapshotWriter.java
+E:\jyothi\Projects\MigrationProject1\src\main\java\com\example\writer\DucklakeTableWriter.java
+E:\jyothi\Projects\MigrationProject1\src\main\java\com\example\writer\DucklakeTagWriter.java
+E:\jyothi\Projects\MigrationProject1\src\main\java\com\example\writer\DucklakeViewWriter.java

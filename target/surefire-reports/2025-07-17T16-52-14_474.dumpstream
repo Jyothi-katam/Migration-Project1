@@ -1,0 +1,4 @@
+# Created at 2025-07-17T16:52:15.089
+Boot Manifest-JAR contains absolute paths in classpath 'E:\jyothi\Projects\MigrationProject1\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
